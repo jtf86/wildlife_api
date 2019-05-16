@@ -1,0 +1,14 @@
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\bin\Debug\netcoreapp2.2\WildlifePark.deps.json
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\bin\Debug\netcoreapp2.2\WildlifePark.runtimeconfig.json
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\bin\Debug\netcoreapp2.2\WildlifePark.runtimeconfig.dev.json
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\bin\Debug\netcoreapp2.2\WildlifePark.dll
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\bin\Debug\netcoreapp2.2\WildlifePark.pdb
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.csprojAssemblyReference.cache
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.csproj.CoreCompileInputs.cache
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.RazorAssemblyInfo.cache
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.RazorAssemblyInfo.cs
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.AssemblyInfoInputs.cache
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.AssemblyInfo.cs
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.RazorTargetAssemblyInfo.cache
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.dll
+C:\Users\Mordor\Desktop\WildlifePark.Solution\WildlifePark\obj\Debug\netcoreapp2.2\WildlifePark.pdb
